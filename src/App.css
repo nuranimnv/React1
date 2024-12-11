@@ -1,0 +1,20 @@
+.menu {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgb(227, 222, 222);
+  padding: 20px 0;
+}
+a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+.active {
+  color: red;
+}
+.main{
+    width: 80%;
+    margin: 10px auto;
+}
